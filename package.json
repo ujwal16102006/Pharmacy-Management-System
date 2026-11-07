@@ -1,0 +1,25 @@
+{
+  "name": "online-pharmacy-management-system",
+  "version": "1.0.0",
+  "description": "Full-Stack Online Pharmacy Management System Mini-Project using Node.js, Express, MySQL2, and Vanilla JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pharmacy-management",
+    "mysql",
+    "express",
+    "nodejs",
+    "mini-project"
+  ],
+  "author": "Ujwal Chowdary",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
+
